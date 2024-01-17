@@ -31,6 +31,4 @@ cv2.imshow('Image with Bounding Box', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 # this is a comment for new commit
-# another change ekmfkwesmfkwe
-a = 56
-q = 6
+# another change 
